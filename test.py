@@ -1,1 +1,1 @@
-nnbbnvbnbnvbnvbn
+def print ("Hello,Xuy"
